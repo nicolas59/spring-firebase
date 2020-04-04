@@ -1,4 +1,4 @@
 # spring-firebase
 
 
-Projet test Firebase avec spring
+Projet test Firebase avec spring-boot
